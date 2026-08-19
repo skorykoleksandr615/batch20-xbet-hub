@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://xbet.online/sitemap.xml
+Sitemap: https://xbet.to/sitemap.xml
